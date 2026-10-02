@@ -1,11 +1,11 @@
 {
-  "latest_version": "2.0",
+  "latest_version": "3.0",
   "minimum_version": "1.5",
   "download_url": "https://github.com/gullnoor596-svg/AppUpdater/releases/latest",
   "update_title": "New Update Available",
   "update_message": "A new version of the app is available. Update now to get the latest features and improvements.",
   "expiry_enabled": true,
-  "expiry_date": "2026-10-02",
+  "expiry_date": "2026-10-12",
   "expiry_title": "App Expired",
   "expiry_message": "This version of the app has expired. Please update to the latest version to continue using the app."
 }
