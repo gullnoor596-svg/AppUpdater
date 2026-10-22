@@ -1,6 +1,6 @@
 {
-  "latest_version": "3.0",
-  "minimum_version": "2.0",
+  "latest_version": "4.0",
+  "minimum_version": "3.0",
   "download_url": "https://github.com/gullnoor596-svg/AppUpdater/releases/download/3.0/app-debug.apk",
   "update_title": "New Update Available",
   "update_message": "A new version of the app is available. Update now to get the latest features and improvements.",
