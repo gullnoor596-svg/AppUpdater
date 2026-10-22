@@ -1,7 +1,7 @@
 {
   "latest_version": "3.0",
   "minimum_version": "2.0",
-  "download_url": "https://github.com/gullnoor596-svg/AppUpdater/releases/download/v3.0/app-release.apk",
+  "download_url": "https://github.com/gullnoor596-svg/AppUpdater/releases/download/v2.0/FF.BIO_3.0.apk",
   "update_title": "New Update Available",
   "update_message": "Version 3.0 is now available with new features, improvements and a better experience. Update now!",
   "expiry_enabled": true,
